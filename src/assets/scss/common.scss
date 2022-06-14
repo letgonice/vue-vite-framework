@@ -1,0 +1,50 @@
+.flex-center-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-font-weight {
+  font-weight: bold;
+}
+
+.hide {
+  display: none;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.typeArea {
+  width: 960px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border: 1px dashed #ccc;
+}
+
+// 阴影
+.shadow_orange {
+  box-shadow: 0px 2px 3px #f8b03f;
+}
+
+.ol-li-list-style {
+  list-style: none;
+}
+
+.beyond-the-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.backgroundRed {
+  background-color: red;
+}
+
+.color-aqua {
+  color: aqua;
+}
